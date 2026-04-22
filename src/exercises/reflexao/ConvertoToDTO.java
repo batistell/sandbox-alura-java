@@ -36,3 +36,49 @@ public class ConvertoToDTO {
         }
     }
 }
+/*
+
+
+
+
+
+
+
+
+
+Exponential / Logarithmic
+Math.exp(a)
+Math.log(a)
+Math.log10(a)
+Math.log1p(a)
+Math.expm1(a)
+
+Random
+Math.random()
+
+Floating-Point Helpers
+Math.signum(x)
+Math.copySign(a, b)
+Math.getExponent(x)
+Math.nextAfter(start, direction)
+Math.nextUp(x)
+Math.nextDown(x)
+Math.ulp(x)
+Math.scalb(x, factor)
+
+Exact Arithmetic
+Math.addExact(a, b)
+Math.subtractExact(a, b)
+Math.multiplyExact(a, b)
+Math.incrementExact(a)
+Math.decrementExact(a)
+Math.negateExact(a)
+Math.toIntExact(value)
+
+Division / Modulus
+Math.floorDiv(a, b)
+Math.floorMod(a, b)
+
+Misc Advanced
+Math.fma(a, b, c)
+ */
